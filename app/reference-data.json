@@ -1,0 +1,32 @@
+{
+  "faqs": [
+    {
+      "question": "What is an AI email assistant?",
+      "answer": "An AI email assistant reads your incoming email and helps you deal with it: it drafts replies, sorts messages and keeps track of threads waiting on an answer. Jace does this for Gmail and Outlook accounts. Because it can also act on new mail on its own through labels and Flows, it is sometimes called an AI email agent."
+    },
+    {
+      "question": "Does Jace work with Gmail and Outlook?",
+      "answer": "Yes. Jace connects to personal Gmail and Google Workspace accounts, and to Outlook.com and Microsoft 365 accounts. Drafts land in your normal drafts folder and labels sync as Gmail labels or Outlook categories, so you can review and send from Gmail, Outlook or Jace."
+    },
+    {
+      "question": "Does Jace send emails on its own?",
+      "answer": "Not by default. Jace saves replies as drafts for you to review, edit and send. Flows and labels create drafts too. Automatic sending is a separate opt-in setting, and if you never turn it on, nothing is sent without you."
+    },
+    {
+      "question": "What are Flows?",
+      "answer": "Flows are automations you describe in plain language. You say which emails to watch for, such as a new invoice or a meeting request, and what should happen next: draft a reply, create a calendar event, search the web or use a connected tool like Slack, Notion or HubSpot."
+    },
+    {
+      "question": "Does Jace train AI models on my email?",
+      "answer": "No. Jace doesn't train AI models on your email and doesn't sell your data. Email is encrypted in transit and at rest, and you can remove Jace's access from your Google or Microsoft account at any time."
+    },
+    {
+      "question": "Is there a Jace mobile app?",
+      "answer": "There's no native iOS or Android app yet. Jace runs in your browser, and the drafts and labels it creates show up in the Gmail or Outlook app on your phone, so you can review and send from there."
+    },
+    {
+      "question": "How much does Jace cost?",
+      "answer": "Plus is $25 per user per month, or $20 a month billed yearly, with 10,000 credits a month and up to 2 inboxes. Pro is $50 per user per month, or $40 a month billed yearly, with 20,000 credits a month and up to 8 inboxes. Both start with a 7-day free trial."
+    }
+  ]
+}
